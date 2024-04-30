@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @worldfamous718
-- 👀 I’m interested in ... The role of a cybersecurity analyst, digital forensics, and cloud security.
-- 🌱 I’m currently learning ... MLops, Ethical Hacking, NIST Frameworks, incident response, business continuity planning, GRDP, MITRE ATT&K
+- 👀 I’m interested in ... The role of a cybersecurity analyst, Python development, and cloud security.
+- 🌱 I’m currently learning ... MLops, Ethical Hacking, NIST Frameworks, incident response, business continuity planning, GRDP, MITRE ATT&K and Programming 
 - 💞️ I’m looking to collaborate on ...Blue team work
 - 📫 How to reach me ...message me
 
