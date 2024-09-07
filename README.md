@@ -49,4 +49,4 @@ If you're passionate about cybersecurity, Python, or cloud security, let's colla
 
 ---
 
-[Your Logo Image URL]
+[Logos-Files/cybersecLogo.jpg]
