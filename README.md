@@ -1,6 +1,6 @@
 # Welcome to My Profile 🛡️💻🔒
 
-![Logo](https://github.com/worldfamous718/pAIthon-Labs/blob/main/Logos-Files/cybersecLogo.jpg)
+![Logo](Labs/Logos-Files/Screenshot_20240907-031309.png)
 
 👋 Hi, I'm @worldfamous718 (World..redacted) 🔐
 
