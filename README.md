@@ -1,5 +1,7 @@
 # Welcome to My Profile
 
+![Logo](./Logos-Files/cybersecLogo.jpg)
+
 👋 Hi, I'm @worldfamous718 (World..redacted)
 
 ## About Me
@@ -49,4 +51,3 @@ If you're passionate about cybersecurity, Python, or cloud security, let's colla
 
 ---
 
-[Logos-Files/cybersecLogo.jpg]
