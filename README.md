@@ -44,7 +44,7 @@ I'm an ambitious cybersecurity student pursuing a dual major in Computer Program
 
 ## Contact Me
 
-Feel free to reach out to me through this platform or via email at [your-email@domain.com](worldmccrea@gmail.com).
+Feel free to reach out to me through this platform or via email at [worldmccrea@gmail.com](worldmccrea@gmail.com).
 
 ## Let's Connect!
 
