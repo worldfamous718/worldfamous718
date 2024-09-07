@@ -44,7 +44,7 @@ I'm an ambitious cybersecurity student pursuing a dual major in Computer Program
 
 ## Contact Me
 
-Feel free to reach out to me through this platform or via email at <a href="mailto:worldmccrea@gmail.com">worldmccrea@gmail.com</a>.
+Feel free to reach out to me through this platform or via email at <a href="mailto:worldmccrea@gmail.com">World..redacted email</a>.
 ## Let's Connect!
 
 If you're passionate about cybersecurity, Python, or cloud security, let's collaborate on exciting open-source projects. Together, we can push the boundaries of what's possible in these fields.
