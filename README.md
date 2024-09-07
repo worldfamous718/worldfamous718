@@ -39,7 +39,11 @@ I'm an ambitious cybersecurity student pursuing a dual major in Computer Program
 
 ## Projects
 
-[Im currently working on my Home Lab projects. And a pAIthon 3torial series where I will teach Python3 basic from a student point of view.]
+- **pAIthon 3torial Series**: A comprehensive tutorial series covering Python for cybersecurity, featuring hands-on exercises and real-world scenarios. 📚🐍
+- **Linux Learning Labs**: Practical exercises designed to deepen understanding and proficiency in Linux command-line operations and system administration. 🐧💻
+- **Cybersecurity Home Labs**: A collection of self-hosted lab environments simulating various network configurations and attack scenarios for ethical hacking practice. 🔒🕷️
+- **Git Training**: Interactive lessons and exercises focusing on effective use of Git for version control and collaboration in software development. 🌿✨
+- **Cisco Packet Tracer Labs**: Configuring and securing virtual network devices using Cisco Packet Tracer, mimicking real-world networking scenarios. 🖥️🔧
 
 ## Contact Me
 
