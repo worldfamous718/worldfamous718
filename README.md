@@ -1,6 +1,6 @@
 # Welcome to My Profile 🛡️💻🔒
 
-![Logo](Labs/Logos-Files/Screenshot_20240907-031309.png)
+![Logo](https://github.com/worldfamous718/pAIthon-Labs/blob/main/Labs/Logos-Files/python-labs.png)
 
 👋 Hi, I'm @worldfamous718 (World..redacted) 🔐
 
