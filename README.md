@@ -39,7 +39,7 @@ I'm an ambitious cybersecurity student pursuing a dual major in Computer Program
 
 ## Projects
 
-[Add brief descriptions of your current or recent projects here]
+[Im currently working on my Home Lab projects. And a pAIthon 3torial series where I will teach Python3 basic from a student point of view.]
 
 ## Contact Me
 
