@@ -1,6 +1,6 @@
 # Welcome to My Profile
 
-![Logo](https://raw.githubusercontent.com/username/repo-name/main/path/to/logo.jpg)
+![Logo](https://github.com/worldfamous718/pAIthon-Labs/blob/main/Logos-Files/cybersecLogo.jpg)
 
 
 👋 Hi, I'm @worldfamous718 (World..redacted)
