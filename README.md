@@ -1,4 +1,4 @@
-# Welcome to My Profile 🛡️💻🔒
+# World..redacted/Profile 🛡️💻🔒
 
 ![Logo](https://github.com/worldfamous718/pAIthon-Labs/blob/main/Labs/Logos-Files/200630967-futuristic-scientific-laboratory-with-computer-and-equipment-inside-sci-fi-futuristic-interior.jpg)
 
