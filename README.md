@@ -6,7 +6,7 @@
 
 ## About Me
 
-I'm an ambitious cybersecurity student pursuing a dual major in Computer Programming Development. My passion lies at the intersection of technology and security, driving me to continuously expand my skills and knowledge. 💡🔍
+I'm an ambitious Cybersecurity analyst pursuing a dual major in Computer Programming Development, and Cybersecurity Vulnerability Analysis. My passion lies at the intersection of technology and security, driving me to continuously expand my skills and knowledge. 💡🔍
 
 ### Interests
 
