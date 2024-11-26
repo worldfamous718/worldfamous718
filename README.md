@@ -14,12 +14,42 @@ I'm an ambitious Cybersecurity analyst pursuing a dual major in Computer Program
 - **Python Development**: Exploring various applications of Python in data analysis, automation, and web development. 🐍🧮
 - **Cloud Security**: Investigating secure cloud infrastructure design and implementation. ☁️🔒
 
-## Skills & Technologies
+# Tools
 
-- Programming Languages: Python, C++, Java, HTML/CSS
-- Operating Systems: Windows, Linux (Ubuntu)
-- Tools: Metasploit, Wireshark, Burp Suite, Nmap, Python libraries (requests, BeautifulSoup, pandas)
-- Version Control: Git/GitHub
+## Programming Languages and Frameworks
+
+### Python
+![Python](https://img.shields.io/badge/Python-%231435FF.svg?style=for-the-badge&logo=Python&logoColor=white)
+
+### NumPy
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+
+### Pandas
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+
+### Jupyter
+![Jupyter](https://img.shields.io/badge/Jupyter-%23FA0000.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
+
+### Anaconda
+![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
+
+### Spyder
+![Spyder](https://img.shields.io/badge/Spyder-%230F7F7F7.svg?style=for-the-badge&logo=spyder&logoColor=black)
+
+## Other Tools
+
+### Ruby
+![Ruby](https://img.shields.io/badge/Ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
+
+### Perl
+![Perl](https://img.shields.io/badge/Perl-%234B4D00.svg?style=for-the-badge&logo=perl&logoColor=white)
+
+### SQL
+![SQL](https://img.shields.io/badge/SQL-%2300F8FF.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+### C
+![C](https://img.shields.io/badge/C-%23A8B9C5.svg?style=for-the-badge&logo=c&logoColor=white)
+
 
 ## Current Learning Journey
 
