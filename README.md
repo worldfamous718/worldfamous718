@@ -1,6 +1,6 @@
 # World..redacted/Profile 🛡️💻🔒
 
-![Banner](https://github.com/worldfamous718/worldfamous718/blob/main/profile-banner.png)
+![Banner](https://github.com/worldfamous718/worldfamous718/blob/main/profile-banner-cropped.png)
 
 👋 Hi, I'm @worldfamous718 (World..redacted) 🔐
 
