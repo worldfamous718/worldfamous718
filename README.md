@@ -1,4 +1,4 @@
-# World..redacted/Profile 🛡️💻🔒
+# So, You found me on GitHub! 🛡️💻🔒
 
 ![Banner](https://github.com/worldfamous718/worldfamous718/blob/main/profile-banner-cropped.png)
 
